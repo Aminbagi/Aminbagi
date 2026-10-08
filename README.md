@@ -1,16 +1,20 @@
-## Hi there 👋
+# Amin Hosseinbagi
 
-<!--
-**Aminbagi/Aminbagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational chemist and PhD candidate at the University of Wollongong, Australia.
 
-Here are some ideas to get you started:
+I use DFT and data-driven modelling to understand and predict selectivity in transition-metal catalysis, working closely with experimental collaborators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Mechanistic DFT studies of Pd-catalysed asymmetric reactions
+- Cheminformatics with RDKit: descriptors, similarity mapping, ligand clustering
+- Data-efficient machine learning for selectivity prediction (regression, PCA, k-means)
+- Python for scientific workflows
+
+## Find me
+
+- ORCID: https://orcid.org/0009-0001-7423-8906
+- Google Scholar: https://scholar.google.com/citations?user=RinrKGQAAAAJ
+- LinkedIn: https://www.linkedin.com/in/aminhosseinbagi
+
+Research code is kept private until the related work is published.
